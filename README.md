@@ -1,4 +1,4 @@
-![price](https://github.com/ejrtn0852/cointraker/assets/135151859/812b2a8b-7330-406a-b08a-aa7f15c2b5dd)메인 화면
+메인 화면
 ![스크린샷 2024-05-31 오후 5 51 03](https://github.com/ejrtn0852/cointraker/assets/135151859/a09ff439-c4b4-432f-943a-273ddf017828)
 
 차트 화면 
